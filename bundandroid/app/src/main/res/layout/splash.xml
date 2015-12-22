@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="0px"
+    android:paddingRight="0px"
+    android:paddingTop="0px"
+    android:paddingBottom="0px"
+    android:background="#e73847"
+    tools:context=".Splash">
+    <!--<Button-->
+        <!--android:layout_height="108dp"-->
+        <!--android:layout_width="160dp"-->
+        <!--android:background="@drawable/logo"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_centerVertical="true"></Button>-->
+</LinearLayout>

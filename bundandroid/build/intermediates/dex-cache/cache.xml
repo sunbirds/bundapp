@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/RichardPeng/Desktop/ionic/bund/platforms/Bund/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/RichardPeng/Desktop/ionic/bund/platforms/Bund/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-bd285080d0d63fe6e0bd7fd473317e8122071781.jar" />
+    </item>
+    <item
+        jar="/Users/RichardPeng/Desktop/app android/Bund/app/src/main/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/Users/RichardPeng/Desktop/app android/Bund/app/build/intermediates/pre-dexed/debug/httpmime-4.1.3-4467c441a1188e0bc53b01313ed0e7b9b67ac308.jar" />
+    </item>
+    <item
+        jar="/Users/RichardPeng/Desktop/app android/Bund/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/RichardPeng/Desktop/app android/Bund/app/build/intermediates/pre-dexed/debug/classes-d4d92d8c0d99deddbb146015a1e493b5b9885fa5.jar" />
+    </item>
+    <item
+        jar="/Users/RichardPeng/Desktop/app android/Bund/app/src/main/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b651be701cb256e3972e7c5a07119f26bb7b44a4">
+        <dex dex="/Users/RichardPeng/Desktop/app android/Bund/app/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_2-dd064d2bc647546240ae856cf38068afa87b0932.jar" />
+    </item>
+    <item
+        jar="/Users/RichardPeng/Desktop/app android/Bund/app/src/main/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="/Users/RichardPeng/Desktop/app android/Bund/app/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_1-5b1ca3b82bfdef2b36919b342dc85b45be4c9b9e.jar" />
+    </item>
+    <item
+        jar="/Users/RichardPeng/Desktop/app android/Bund/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/RichardPeng/Desktop/app android/Bund/app/build/intermediates/pre-dexed/debug/classes-93fc61fe3701744df01abd26a8a71cf26410374c.jar" />
+    </item>
+    <item
+        jar="/Users/RichardPeng/Desktop/ionic/bund/platforms/Bund/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/RichardPeng/Desktop/ionic/bund/platforms/Bund/app/build/intermediates/pre-dexed/debug/classes-a11717369c2de96cf68b8de4c47a8d0ae8a7e0e8.jar" />
+    </item>
+    <item
+        jar="/Users/RichardPeng/Desktop/app android/Bund/app/src/main/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4688dc44ccef22b7f057301ee6abbe187a8d35ea">
+        <dex dex="/Users/RichardPeng/Desktop/app android/Bund/app/build/intermediates/pre-dexed/debug/umeng_social_sdk-97ac0c5285fea10aa86fc05809919e6ab1cbc1b8.jar" />
+    </item>
+    <item
+        jar="/Users/RichardPeng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/RichardPeng/Desktop/ionic/bund/platforms/Bund/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-38713f22605e5f43a048b56f9171fff6236e74eb.jar" />
+    </item>
+    <item
+        jar="/Users/RichardPeng/Desktop/ionic/bund/platforms/Bund/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/RichardPeng/Desktop/ionic/bund/platforms/Bund/app/build/intermediates/pre-dexed/debug/classes-4645788750f4518a047d4ef2c7e24bbb3f8dc291.jar" />
+    </item>
+    <item
+        jar="/Users/RichardPeng/Desktop/app android/Bund/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/RichardPeng/Desktop/app android/Bund/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-c75052b854114cb60aa9a7922f9b50cb8abe2a03.jar" />
+    </item>
+    <item
+        jar="/Users/RichardPeng/Desktop/app android/Bund/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97a83e6397160ac73bcea710022b1048437e5771">
+        <dex dex="/Users/RichardPeng/Desktop/app android/Bund/app/build/intermediates/pre-dexed/armv7/release/classes-441cb0feade59695b97c6060e0796a763e46afbd.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,103 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="0px"
+    android:paddingRight="0px"
+    android:paddingTop="0px"
+    android:paddingBottom="0px"
+    android:background="#e73847"
+    tools:context=".MainActivity">
+
+    <org.xwalk.core.XWalkView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/xwalkWebView"
+        android:background="#e73847"
+        android:visibility="visible" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/splash"
+        android:background="#e73847"
+        android:visibility="visible">
+        <Button
+            android:layout_height="148dp"
+            android:layout_width="240dp"
+            android:background="@drawable/logolaunch"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"></Button>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/webViewContainer"
+        android:visibility="gone" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_alignParentTop="true"
+            android:background="#e73847">
+            <Button
+                android:layout_height="26dp"
+                android:layout_width="42dp"
+                android:background="@drawable/logo"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="9dp"
+                ></Button>
+        </RelativeLayout>
+
+
+        <WebView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/inAppBrowser"
+            android:layout_marginTop="44dp">
+        </WebView>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="20dp">
+
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/backBtn"
+                android:background="@drawable/backbutton"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="12dp"
+                ></Button>
+
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/shareBtn"
+                android:background="@drawable/share"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="12dp"
+                ></Button>
+
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/favBtn"
+                android:background="@drawable/fav"
+                android:layout_toLeftOf="@id/shareBtn"
+                android:layout_marginRight="12dp"
+                ></Button>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <!--<Button-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_height="100dp"-->
+        <!--android:id="@+id/btn"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!-->share</Button>-->
+
+</RelativeLayout>
